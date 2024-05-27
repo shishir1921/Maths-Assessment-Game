@@ -1,0 +1,22 @@
+***Instruction***
+Objective: Solve math problems across different difficulty levels.
+Difficulty Levels:
+Easy: 10 questions
+Medium: 25 questions
+Hard: 50 questions
+Extreme: Infinite questions (keep going until you decide to stop!)
+Scoring: Earn points for each correct answer.
+Time Limit: No time pressure—take your time and think it through.
+How to Play:
+Choose Your Difficulty:
+Select your desired difficulty level: Easy, Medium, Hard, or Extreme.
+The harder the level, the more questions you’ll face.
+Answer Questions:
+You’ll be presented with math problems—addition, subtraction, multiplication, division, and more.
+Solve each question as accurately as possible.
+Score Points:
+Correct answers earn you points.
+Incorrect answers won’t penalize you—just keep going!
+Challenge Yourself:
+Test your limits! Can you conquer the Extreme level?
+Remember, it’s not just about speed—it’s about accuracy too.
